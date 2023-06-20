@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#Elaryks' GitHub profile
+# Elaryks' GitHub profile
 
 <!--
 **Elaryks/Elaryks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
