@@ -1,6 +1,6 @@
-### Hi there 👋
-
 # Elaryks' GitHub profile
+
+### Hi there 👋 This is my GitHub profile.
 
 ## ♾️ My skills
 
